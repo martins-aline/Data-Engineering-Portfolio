@@ -1,6 +1,6 @@
 # Armazenamento Azure
 
-    Contas de armazenamento são são o tipo de armazenamento de base no Azure.
+    Contas de armazenamento são o tipo de armazenamento de base no Azure.
     O armazenamento oferece um repositório de objetos escalonável para objetos de dados 
     e serviços de sistema de arquivos na nuvem.
 
